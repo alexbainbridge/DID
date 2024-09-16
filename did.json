@@ -22,7 +22,7 @@
             "id": "did:web:alexbainbridge.github.io:DID#key-2",
             "type": "Ed25519VerificationKey2020",
             "controller": "did:web:alexbainbridge.github.io:DID",
-            "publicKeyMultibase": "zHG3s75SZpRqz2FuEbTRnu7JL6nzwDyvrj3stk9PS9FNb"
+            "publicKeyMultibase": "HG3s75SZpRqz2FuEbTRnu7JL6nzwDyvrj3stk9PS9FNb"
         }
     ]
 }
